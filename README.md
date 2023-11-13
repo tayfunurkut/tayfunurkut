@@ -42,7 +42,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" align="center" style="width: 100%" />
+<img src="https://i.giphy.com/media/077i6AULCXc0FKTj9s/giphy.webp" align="center" style="width: 100%" />
 </div>  
 
 
